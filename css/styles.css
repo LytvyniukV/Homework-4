@@ -133,7 +133,7 @@ button {
 /* HERO SECTION */
 
 .hero-section {
-  background: var(--grey, rgba(46, 47, 66, 0.70));
+  background: var(--navyblue);
   background-image: linear-gradient(
     to bottom,
     rgba(46, 47, 66, 0.7),

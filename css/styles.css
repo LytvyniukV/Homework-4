@@ -139,7 +139,7 @@ button {
     rgba(46, 47, 66, 0.7),
     rgba(46, 47, 66, 0.7)
   ),
-  url('/images/hero-back.jpg');
+  url(/images/hero-back.jpg);
   padding: 188px 0;
   background-repeat: no-repeat;
   background-position: center;
